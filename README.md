@@ -1,2 +1,2 @@
 # ERC20-token
- making token on ethereum from scracth
+ making token on ethereum from scratch
